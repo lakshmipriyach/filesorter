@@ -1,0 +1,1122 @@
+2023-08-01 17:55:07,067 INFO m.FilesSort [main] This is a JCL file: WC415A1C
+2023-08-01 17:55:07,081 INFO m.FilesSort [main] This is a proc file: WC415A1C
+2023-08-01 17:55:07,084 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC415A1C
+2023-08-01 17:55:07,085 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,085 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC415A1C.jcl
+2023-08-01 17:55:07,101 INFO m.FilesSort [main] This is a JCL file: DFGSTATX
+2023-08-01 17:55:07,101 INFO m.FilesSort [main] This is a job file: DFGSTATX
+2023-08-01 17:55:07,102 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DFGSTATX
+2023-08-01 17:55:07,102 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,102 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/DFGSTATX.jcl
+2023-08-01 17:55:07,109 INFO m.FilesSort [main] This is a Copy Book: WA4CRHTL
+2023-08-01 17:55:07,110 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRHTL
+2023-08-01 17:55:07,110 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,110 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRHTL.cpy
+2023-08-01 17:55:07,112 INFO m.FilesSort [main] This is a Copy Book: WA4CCEND
+2023-08-01 17:55:07,113 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CCEND
+2023-08-01 17:55:07,113 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,114 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CCEND.cpy
+2023-08-01 17:55:07,120 INFO m.FilesSort [main] This is a Cobol file: WA23511A
+2023-08-01 17:55:07,121 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23511A
+2023-08-01 17:55:07,122 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,122 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23511A.cob
+2023-08-01 17:55:07,123 INFO m.FilesSort [main] This is a JCL file: WC424A1C
+2023-08-01 17:55:07,123 INFO m.FilesSort [main] This is a proc file: WC424A1C
+2023-08-01 17:55:07,124 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC424A1C
+2023-08-01 17:55:07,124 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,124 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC424A1C.jcl
+2023-08-01 17:55:07,128 INFO m.FilesSort [main] This is a JCL file: WC452A1C
+2023-08-01 17:55:07,128 INFO m.FilesSort [main] This is a proc file: WC452A1C
+2023-08-01 17:55:07,129 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC452A1C
+2023-08-01 17:55:07,129 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,129 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC452A1C.jcl
+2023-08-01 17:55:07,132 INFO m.FilesSort [main] This is a Cobol file: WA21711A
+2023-08-01 17:55:07,133 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21711A
+2023-08-01 17:55:07,133 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,134 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21711A.cob
+2023-08-01 17:55:07,138 INFO m.FilesSort [main] This is a Copy Book: WPNDCM
+2023-08-01 17:55:07,138 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNDCM
+2023-08-01 17:55:07,139 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,139 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNDCM.cpy
+2023-08-01 17:55:07,140 INFO m.FilesSort [main] This is a cards file: WA331A7C
+2023-08-01 17:55:07,140 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA331A7C
+2023-08-01 17:55:07,141 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,141 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA331A7C
+2023-08-01 17:55:07,144 INFO m.FilesSort [main] This is a Cobol file: WA23011A
+2023-08-01 17:55:07,145 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23011A
+2023-08-01 17:55:07,145 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,145 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23011A.cob
+2023-08-01 17:55:07,148 INFO m.FilesSort [main] This is a Copy Book: WACRCDW2
+2023-08-01 17:55:07,149 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WACRCDW2
+2023-08-01 17:55:07,150 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,152 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WACRCDW2.cpy
+2023-08-01 17:55:07,159 INFO m.FilesSort [main] This is a JCL file: WA24442P
+2023-08-01 17:55:07,160 INFO m.FilesSort [main] This is a proc file: WA24442P
+2023-08-01 17:55:07,161 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24442P
+2023-08-01 17:55:07,161 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,161 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24442P.jcl
+2023-08-01 17:55:07,163 INFO m.FilesSort [main] This is a Copy Book: WALBLSDT
+2023-08-01 17:55:07,163 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLSDT
+2023-08-01 17:55:07,163 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,163 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLSDT.cpy
+2023-08-01 17:55:07,169 INFO m.FilesSort [main] Garbage file: BASEMK
+2023-08-01 17:55:07,169 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/BASEMK
+2023-08-01 17:55:07,170 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,171 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/BASEMK
+2023-08-01 17:55:07,172 INFO m.FilesSort [main] This is a Copy Book: LOCALSKT
+2023-08-01 17:55:07,173 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOCALSKT
+2023-08-01 17:55:07,173 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,173 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/LOCALSKT.cpy
+2023-08-01 17:55:07,174 INFO m.FilesSort [main] This is a Copy Book: WA4CFNSW
+2023-08-01 17:55:07,175 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFNSW
+2023-08-01 17:55:07,175 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,175 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFNSW.cpy
+2023-08-01 17:55:07,179 INFO m.FilesSort [main] This is a JCL file: WA24472P
+2023-08-01 17:55:07,179 INFO m.FilesSort [main] This is a proc file: WA24472P
+2023-08-01 17:55:07,179 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24472P
+2023-08-01 17:55:07,180 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,180 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24472P.jcl
+2023-08-01 17:55:07,181 INFO m.FilesSort [main] This is a JCL file: WC617A1C
+2023-08-01 17:55:07,181 INFO m.FilesSort [main] This is a proc file: WC617A1C
+2023-08-01 17:55:07,182 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC617A1C
+2023-08-01 17:55:07,182 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,182 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC617A1C.jcl
+2023-08-01 17:55:07,183 INFO m.FilesSort [main] This is a cards file: WA340A5C
+2023-08-01 17:55:07,183 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA340A5C
+2023-08-01 17:55:07,183 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,183 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA340A5C
+2023-08-01 17:55:07,184 INFO m.FilesSort [main] This is a Java file: COMMAREA
+2023-08-01 17:55:07,184 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COMMAREA
+2023-08-01 17:55:07,185 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,185 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/COMMAREA.java
+2023-08-01 17:55:07,188 INFO m.FilesSort [main] Garbage file: GENERATE
+2023-08-01 17:55:07,189 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/GENERATE
+2023-08-01 17:55:07,189 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,189 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/GENERATE
+2023-08-01 17:55:07,191 INFO m.FilesSort [main] This is a Cobol file: WA18911A
+2023-08-01 17:55:07,191 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA18911A
+2023-08-01 17:55:07,192 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,192 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA18911A.cob
+2023-08-01 17:55:07,194 INFO m.FilesSort [main] This is a JCL file: DRMSTATX
+2023-08-01 17:55:07,194 INFO m.FilesSort [main] This is a job file: DRMSTATX
+2023-08-01 17:55:07,194 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DRMSTATX
+2023-08-01 17:55:07,194 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,196 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/DRMSTATX.jcl
+2023-08-01 17:55:07,199 INFO m.FilesSort [main] This is a Copy Book: WA4CRNSW
+2023-08-01 17:55:07,202 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRNSW
+2023-08-01 17:55:07,202 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,202 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRNSW.cpy
+2023-08-01 17:55:07,203 INFO m.FilesSort [main] This is a JCL file: FTSDLETE
+2023-08-01 17:55:07,203 INFO m.FilesSort [main] This is a job file: FTSDLETE
+2023-08-01 17:55:07,203 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/FTSDLETE
+2023-08-01 17:55:07,203 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,204 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/FTSDLETE.jcl
+2023-08-01 17:55:07,204 INFO m.FilesSort [main] This is a cards file: WA332AFC
+2023-08-01 17:55:07,205 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA332AFC
+2023-08-01 17:55:07,206 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,207 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA332AFC
+2023-08-01 17:55:07,231 INFO m.FilesSort [main] Garbage file: COMPLOG
+2023-08-01 17:55:07,231 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COMPLOG
+2023-08-01 17:55:07,232 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,232 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/COMPLOG
+2023-08-01 17:55:07,234 INFO m.FilesSort [main] This is a Cobol file: WA11811A
+2023-08-01 17:55:07,234 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA11811A
+2023-08-01 17:55:07,234 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,236 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA11811A.cob
+2023-08-01 17:55:07,239 INFO m.FilesSort [main] This is a Cobol file: WA33111A
+2023-08-01 17:55:07,249 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA33111A
+2023-08-01 17:55:07,251 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,252 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA33111A.cob
+2023-08-01 17:55:07,254 INFO m.FilesSort [main] This is a Cobol file: WA23811A
+2023-08-01 17:55:07,254 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23811A
+2023-08-01 17:55:07,255 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,255 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23811A.cob
+2023-08-01 17:55:07,256 INFO m.FilesSort [main] This is a JCL file: WC470A1C
+2023-08-01 17:55:07,257 INFO m.FilesSort [main] This is a proc file: WC470A1C
+2023-08-01 17:55:07,257 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC470A1C
+2023-08-01 17:55:07,258 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,258 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC470A1C.jcl
+2023-08-01 17:55:07,260 INFO m.FilesSort [main] This is a JCL file: BAEBKUPY
+2023-08-01 17:55:07,260 INFO m.FilesSort [main] This is a job file: BAEBKUPY
+2023-08-01 17:55:07,260 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/BAEBKUPY
+2023-08-01 17:55:07,260 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,261 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/BAEBKUPY.jcl
+2023-08-01 17:55:07,262 INFO m.FilesSort [main] This is a JCL file: WFMU6210
+2023-08-01 17:55:07,262 INFO m.FilesSort [main] This is a proc file: WFMU6210
+2023-08-01 17:55:07,263 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMU6210
+2023-08-01 17:55:07,263 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,263 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WFMU6210.jcl
+2023-08-01 17:55:07,264 INFO m.FilesSort [main] This is a Copy Book: WA4CFCOM
+2023-08-01 17:55:07,265 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFCOM
+2023-08-01 17:55:07,265 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,265 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFCOM.cpy
+2023-08-01 17:55:07,266 INFO m.FilesSort [main] This is a JCL file: WA118A1X
+2023-08-01 17:55:07,266 INFO m.FilesSort [main] This is a job file: WA118A1X
+2023-08-01 17:55:07,266 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA118A1X
+2023-08-01 17:55:07,266 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,266 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/WA118A1X.jcl
+2023-08-01 17:55:07,269 INFO m.FilesSort [main] This is a JCL file: WA240A1C
+2023-08-01 17:55:07,269 INFO m.FilesSort [main] This is a proc file: WA240A1C
+2023-08-01 17:55:07,269 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA240A1C
+2023-08-01 17:55:07,270 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,270 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA240A1C.jcl
+2023-08-01 17:55:07,271 INFO m.FilesSort [main] This is a Copy Book: WALBLSLT
+2023-08-01 17:55:07,272 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLSLT
+2023-08-01 17:55:07,272 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,272 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLSLT.cpy
+2023-08-01 17:55:07,273 INFO m.FilesSort [main] This is a Copy Book: MRDATAT
+2023-08-01 17:55:07,273 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/MRDATAT
+2023-08-01 17:55:07,274 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,274 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/MRDATAT.cpy
+2023-08-01 17:55:07,275 INFO m.FilesSort [main] This is a JCL file: WC603A1C
+2023-08-01 17:55:07,275 INFO m.FilesSort [main] This is a proc file: WC603A1C
+2023-08-01 17:55:07,275 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC603A1C
+2023-08-01 17:55:07,276 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,276 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC603A1C.jcl
+2023-08-01 17:55:07,276 INFO m.FilesSort [main] This is a Copy Book: RTSATRT
+2023-08-01 17:55:07,277 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/RTSATRT
+2023-08-01 17:55:07,277 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,277 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/RTSATRT.cpy
+2023-08-01 17:55:07,277 INFO m.FilesSort [main] This is a cards file: WA332A1C
+2023-08-01 17:55:07,278 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA332A1C
+2023-08-01 17:55:07,278 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,278 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA332A1C
+2023-08-01 17:55:07,280 INFO m.FilesSort [main] This is a Copy Book: WA4CRPVI
+2023-08-01 17:55:07,280 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRPVI
+2023-08-01 17:55:07,280 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,281 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRPVI.cpy
+2023-08-01 17:55:07,281 INFO m.FilesSort [main] This is a JCL file: LERG1NDM
+2023-08-01 17:55:07,281 INFO m.FilesSort [main] This is a job file: LERG1NDM
+2023-08-01 17:55:07,282 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LERG1NDM
+2023-08-01 17:55:07,282 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,282 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/LERG1NDM.jcl
+2023-08-01 17:55:07,283 INFO m.FilesSort [main] This is a JCL file: WC607A1C
+2023-08-01 17:55:07,284 INFO m.FilesSort [main] This is a proc file: WC607A1C
+2023-08-01 17:55:07,284 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC607A1C
+2023-08-01 17:55:07,284 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,284 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC607A1C.jcl
+2023-08-01 17:55:07,285 INFO m.FilesSort [main] Garbage file: PREPARSE
+2023-08-01 17:55:07,285 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/PREPARSE
+2023-08-01 17:55:07,286 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,286 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/PREPARSE
+2023-08-01 17:55:07,287 INFO m.FilesSort [main] This is a cards file: WA335A1C
+2023-08-01 17:55:07,288 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA335A1C
+2023-08-01 17:55:07,288 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,288 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA335A1C
+2023-08-01 17:55:07,296 INFO m.FilesSort [main] This is a JCL file: NDM3GTRK
+2023-08-01 17:55:07,296 INFO m.FilesSort [main] This is a job file: NDM3GTRK
+2023-08-01 17:55:07,297 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/NDM3GTRK
+2023-08-01 17:55:07,297 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,297 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/NDM3GTRK.jcl
+2023-08-01 17:55:07,299 INFO m.FilesSort [main] This is a Copy Book: VIEWT
+2023-08-01 17:55:07,299 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/VIEWT
+2023-08-01 17:55:07,299 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,300 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/VIEWT.cpy
+2023-08-01 17:55:07,301 INFO m.FilesSort [main] This is a Copy Book: WALBLDRT
+2023-08-01 17:55:07,301 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLDRT
+2023-08-01 17:55:07,302 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,302 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLDRT.cpy
+2023-08-01 17:55:07,303 INFO m.FilesSort [main] This is a cards file: WA332A5C
+2023-08-01 17:55:07,303 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA332A5C
+2023-08-01 17:55:07,303 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,304 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA332A5C
+2023-08-01 17:55:07,309 INFO m.FilesSort [main] This is a JCL file: WA24402P
+2023-08-01 17:55:07,309 INFO m.FilesSort [main] This is a proc file: WA24402P
+2023-08-01 17:55:07,310 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24402P
+2023-08-01 17:55:07,310 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,310 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24402P.jcl
+2023-08-01 17:55:07,311 INFO m.FilesSort [main] This is a JCL file: WA218A1C
+2023-08-01 17:55:07,312 INFO m.FilesSort [main] This is a proc file: WA218A1C
+2023-08-01 17:55:07,312 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA218A1C
+2023-08-01 17:55:07,312 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,312 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA218A1C.jcl
+2023-08-01 17:55:07,316 INFO m.FilesSort [main] This is a Copy Book: WALBLCST
+2023-08-01 17:55:07,316 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLCST
+2023-08-01 17:55:07,317 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,317 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLCST.cpy
+2023-08-01 17:55:07,318 INFO m.FilesSort [main] This is a JCL file: WC465A1C
+2023-08-01 17:55:07,318 INFO m.FilesSort [main] This is a proc file: WC465A1C
+2023-08-01 17:55:07,319 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC465A1C
+2023-08-01 17:55:07,319 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,319 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC465A1C.jcl
+2023-08-01 17:55:07,320 INFO m.FilesSort [main] This is a Copy Book: WA4CRL13
+2023-08-01 17:55:07,321 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRL13
+2023-08-01 17:55:07,321 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,330 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRL13.cpy
+2023-08-01 17:55:07,330 INFO m.FilesSort [main] This is a cards file: WA331A4C
+2023-08-01 17:55:07,330 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA331A4C
+2023-08-01 17:55:07,331 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,331 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA331A4C
+2023-08-01 17:55:07,332 INFO m.FilesSort [main] This is a Copy Book: WALBLLVT
+2023-08-01 17:55:07,332 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLLVT
+2023-08-01 17:55:07,332 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,333 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLLVT.cpy
+2023-08-01 17:55:07,341 INFO m.FilesSort [main] Garbage file: CLONE
+2023-08-01 17:55:07,342 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLONE
+2023-08-01 17:55:07,342 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,343 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/CLONE
+2023-08-01 17:55:07,344 INFO m.FilesSort [main] This is a Copy Book: WPNITCL
+2023-08-01 17:55:07,344 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNITCL
+2023-08-01 17:55:07,345 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,345 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNITCL.cpy
+2023-08-01 17:55:07,345 INFO m.FilesSort [main] This is a cards file: JNOTICE
+2023-08-01 17:55:07,345 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/JNOTICE
+2023-08-01 17:55:07,346 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,346 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/JNOTICE
+2023-08-01 17:55:07,348 INFO m.FilesSort [main] This is a Copy Book: WALBLSKT
+2023-08-01 17:55:07,348 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLSKT
+2023-08-01 17:55:07,348 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,348 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLSKT.cpy
+2023-08-01 17:55:07,349 INFO m.FilesSort [main] This is a cards file: WA212B1C
+2023-08-01 17:55:07,349 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA212B1C
+2023-08-01 17:55:07,349 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,349 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA212B1C
+2023-08-01 17:55:07,351 INFO m.FilesSort [main] This is a JSON file: LOAN3X
+2023-08-01 17:55:07,351 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN3X
+2023-08-01 17:55:07,351 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,352 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN3X.json
+2023-08-01 17:55:07,355 INFO m.FilesSort [main] This is a JCL file: BINDDFGX
+2023-08-01 17:55:07,355 INFO m.FilesSort [main] This is a job file: BINDDFGX
+2023-08-01 17:55:07,355 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/BINDDFGX
+2023-08-01 17:55:07,356 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,356 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/BINDDFGX.jcl
+2023-08-01 17:55:07,367 INFO m.FilesSort [main] This is a JCL file: WA412A1C
+2023-08-01 17:55:07,367 INFO m.FilesSort [main] This is a proc file: WA412A1C
+2023-08-01 17:55:07,368 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA412A1C
+2023-08-01 17:55:07,368 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,369 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA412A1C.jcl
+2023-08-01 17:55:07,369 INFO m.FilesSort [main] This is a JCL file: WC451A1C
+2023-08-01 17:55:07,370 INFO m.FilesSort [main] This is a proc file: WC451A1C
+2023-08-01 17:55:07,370 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC451A1C
+2023-08-01 17:55:07,370 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,370 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC451A1C.jcl
+2023-08-01 17:55:07,374 INFO m.FilesSort [main] This is a Copy Book: WA4CRCOW
+2023-08-01 17:55:07,374 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRCOW
+2023-08-01 17:55:07,375 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,375 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRCOW.cpy
+2023-08-01 17:55:07,383 INFO m.FilesSort [main] This is a JCL file: WA24492P
+2023-08-01 17:55:07,384 INFO m.FilesSort [main] This is a proc file: WA24492P
+2023-08-01 17:55:07,385 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24492P
+2023-08-01 17:55:07,385 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,386 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24492P.jcl
+2023-08-01 17:55:07,388 INFO m.FilesSort [main] This is a Cobol file: WA24511A
+2023-08-01 17:55:07,389 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24511A
+2023-08-01 17:55:07,389 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,389 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA24511A.cob
+2023-08-01 17:55:07,390 INFO m.FilesSort [main] This is a Copy Book: CDWSWRI
+2023-08-01 17:55:07,390 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CDWSWRI
+2023-08-01 17:55:07,390 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,390 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/CDWSWRI.cpy
+2023-08-01 17:55:07,393 INFO m.FilesSort [main] This is a Cobol file: WA21811A
+2023-08-01 17:55:07,394 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21811A
+2023-08-01 17:55:07,394 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,394 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21811A.cob
+2023-08-01 17:55:07,396 INFO m.FilesSort [main] This is a Cobol file: WA19011A
+2023-08-01 17:55:07,396 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA19011A
+2023-08-01 17:55:07,396 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,397 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA19011A.cob
+2023-08-01 17:55:07,398 INFO m.FilesSort [main] This is a JCL file: WC286A1C
+2023-08-01 17:55:07,398 INFO m.FilesSort [main] This is a proc file: WC286A1C
+2023-08-01 17:55:07,398 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC286A1C
+2023-08-01 17:55:07,402 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,403 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC286A1C.jcl
+2023-08-01 17:55:07,404 INFO m.FilesSort [main] This is a JCL file: WCMLEC8N
+2023-08-01 17:55:07,404 INFO m.FilesSort [main] This is a proc file: WCMLEC8N
+2023-08-01 17:55:07,405 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WCMLEC8N
+2023-08-01 17:55:07,405 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,405 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WCMLEC8N.jcl
+2023-08-01 17:55:07,415 INFO m.FilesSort [main] This is a JCL file: WC275A1C
+2023-08-01 17:55:07,415 INFO m.FilesSort [main] This is a proc file: WC275A1C
+2023-08-01 17:55:07,416 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC275A1C
+2023-08-01 17:55:07,416 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,416 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC275A1C.jcl
+2023-08-01 17:55:07,417 INFO m.FilesSort [main] This is a Copy Book: YFDATAT
+2023-08-01 17:55:07,418 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/YFDATAT
+2023-08-01 17:55:07,418 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,418 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/YFDATAT.cpy
+2023-08-01 17:55:07,419 INFO m.FilesSort [main] This is a Copy Book: WALBLPTT
+2023-08-01 17:55:07,419 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLPTT
+2023-08-01 17:55:07,420 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,420 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLPTT.cpy
+2023-08-01 17:55:07,420 INFO m.FilesSort [main] This is a cards file: WA340ACC
+2023-08-01 17:55:07,420 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA340ACC
+2023-08-01 17:55:07,421 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,421 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA340ACC
+2023-08-01 17:55:07,423 INFO m.FilesSort [main] This is a JCL file: WC430A1C
+2023-08-01 17:55:07,424 INFO m.FilesSort [main] This is a proc file: WC430A1C
+2023-08-01 17:55:07,424 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC430A1C
+2023-08-01 17:55:07,424 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,424 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC430A1C.jcl
+2023-08-01 17:55:07,426 INFO m.FilesSort [main] This is a JCL file: WC331A1C
+2023-08-01 17:55:07,427 INFO m.FilesSort [main] This is a proc file: WC331A1C
+2023-08-01 17:55:07,427 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC331A1C
+2023-08-01 17:55:07,427 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,427 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC331A1C.jcl
+2023-08-01 17:55:07,429 INFO m.FilesSort [main] This is a Copy Book: WA4CFCLD
+2023-08-01 17:55:07,429 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFCLD
+2023-08-01 17:55:07,429 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,430 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFCLD.cpy
+2023-08-01 17:55:07,435 INFO m.FilesSort [main] This is a JSON file: LOAN5X
+2023-08-01 17:55:07,435 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN5X
+2023-08-01 17:55:07,435 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,436 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN5X.json
+2023-08-01 17:55:07,438 INFO m.FilesSort [main] This is a JCL file: WA346A1C
+2023-08-01 17:55:07,438 INFO m.FilesSort [main] This is a proc file: WA346A1C
+2023-08-01 17:55:07,439 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA346A1C
+2023-08-01 17:55:07,439 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,439 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA346A1C.jcl
+2023-08-01 17:55:07,440 INFO m.FilesSort [main] This is a Copy Book: WA4CFSW
+2023-08-01 17:55:07,441 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFSW
+2023-08-01 17:55:07,441 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,441 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFSW.cpy
+2023-08-01 17:55:07,441 INFO m.FilesSort [main] This is a cards file: WA230A5C
+2023-08-01 17:55:07,442 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA230A5C
+2023-08-01 17:55:07,442 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,442 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA230A5C
+2023-08-01 17:55:07,446 INFO m.FilesSort [main] This is a Cobol file: WA24411A
+2023-08-01 17:55:07,446 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24411A
+2023-08-01 17:55:07,446 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,446 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA24411A.cob
+2023-08-01 17:55:07,452 INFO m.FilesSort [main] This is a JCL file: WC245A1C
+2023-08-01 17:55:07,452 INFO m.FilesSort [main] This is a proc file: WC245A1C
+2023-08-01 17:55:07,452 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC245A1C
+2023-08-01 17:55:07,452 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,459 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC245A1C.jcl
+2023-08-01 17:55:07,470 INFO m.FilesSort [main] This is a JSON file: LOANS2X
+2023-08-01 17:55:07,471 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOANS2X
+2023-08-01 17:55:07,471 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,471 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOANS2X.json
+2023-08-01 17:55:07,479 INFO m.FilesSort [main] This is a JCL file: WC611A1C
+2023-08-01 17:55:07,480 INFO m.FilesSort [main] This is a proc file: WC611A1C
+2023-08-01 17:55:07,481 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC611A1C
+2023-08-01 17:55:07,481 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,481 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC611A1C.jcl
+2023-08-01 17:55:07,485 INFO m.FilesSort [main] This is a Cobol file: WA25411A
+2023-08-01 17:55:07,486 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA25411A
+2023-08-01 17:55:07,486 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,487 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA25411A.cob
+2023-08-01 17:55:07,488 INFO m.FilesSort [main] This is a Copy Book: WA4CWPDT
+2023-08-01 17:55:07,489 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CWPDT
+2023-08-01 17:55:07,490 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,492 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CWPDT.cpy
+2023-08-01 17:55:07,493 INFO m.FilesSort [main] This is a JCL file: WA254A1C
+2023-08-01 17:55:07,493 INFO m.FilesSort [main] This is a proc file: WA254A1C
+2023-08-01 17:55:07,493 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA254A1C
+2023-08-01 17:55:07,493 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,494 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA254A1C.jcl
+2023-08-01 17:55:07,494 INFO m.FilesSort [main] This is a cards file: WA219A2C
+2023-08-01 17:55:07,494 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA219A2C
+2023-08-01 17:55:07,494 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,494 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA219A2C
+2023-08-01 17:55:07,495 INFO m.FilesSort [main] This is a cards file: WA335A4C
+2023-08-01 17:55:07,495 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA335A4C
+2023-08-01 17:55:07,495 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,495 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA335A4C
+2023-08-01 17:55:07,496 INFO m.FilesSort [main] This is a Copy Book: WALBLBST
+2023-08-01 17:55:07,496 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLBST
+2023-08-01 17:55:07,496 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,496 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLBST.cpy
+2023-08-01 17:55:07,498 INFO m.FilesSort [main] This is a JCL file: WC301A1C
+2023-08-01 17:55:07,498 INFO m.FilesSort [main] This is a proc file: WC301A1C
+2023-08-01 17:55:07,498 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC301A1C
+2023-08-01 17:55:07,498 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,498 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC301A1C.jcl
+2023-08-01 17:55:07,499 INFO m.FilesSort [main] This is a JCL file: WC971A1C
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] This is a proc file: WC971A1C
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC971A1C
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC971A1C.jcl
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] This is a JCL file: COPYYAD1
+2023-08-01 17:55:07,500 INFO m.FilesSort [main] This is a job file: COPYYAD1
+2023-08-01 17:55:07,501 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYYAD1
+2023-08-01 17:55:07,501 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,501 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYYAD1.jcl
+2023-08-01 17:55:07,501 INFO m.FilesSort [main] This is a JCL file: REORDFGX
+2023-08-01 17:55:07,501 INFO m.FilesSort [main] This is a job file: REORDFGX
+2023-08-01 17:55:07,502 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/REORDFGX
+2023-08-01 17:55:07,502 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,502 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/REORDFGX.jcl
+2023-08-01 17:55:07,507 INFO m.FilesSort [main] This is a JCL file: WC335A1C
+2023-08-01 17:55:07,508 INFO m.FilesSort [main] This is a proc file: WC335A1C
+2023-08-01 17:55:07,508 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC335A1C
+2023-08-01 17:55:07,508 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,508 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC335A1C.jcl
+2023-08-01 17:55:07,510 INFO m.FilesSort [main] This is a JCL file: WFMU613X
+2023-08-01 17:55:07,519 INFO m.FilesSort [main] This is a proc file: WFMU613X
+2023-08-01 17:55:07,519 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMU613X
+2023-08-01 17:55:07,519 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,519 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WFMU613X.jcl
+2023-08-01 17:55:07,520 INFO m.FilesSort [main] This is a Copy Book: WA4CRNPA
+2023-08-01 17:55:07,520 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRNPA
+2023-08-01 17:55:07,520 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,520 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRNPA.cpy
+2023-08-01 17:55:07,521 INFO m.FilesSort [main] This is a Copy Book: SVGRPT
+2023-08-01 17:55:07,521 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/SVGRPT
+2023-08-01 17:55:07,522 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,522 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/SVGRPT.cpy
+2023-08-01 17:55:07,523 INFO m.FilesSort [main] This is a JCL file: WA233A1C
+2023-08-01 17:55:07,524 INFO m.FilesSort [main] This is a proc file: WA233A1C
+2023-08-01 17:55:07,524 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA233A1C
+2023-08-01 17:55:07,524 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,524 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA233A1C.jcl
+2023-08-01 17:55:07,525 INFO m.FilesSort [main] This is a Cobol file: WA23111A
+2023-08-01 17:55:07,526 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23111A
+2023-08-01 17:55:07,526 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,526 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23111A.cob
+2023-08-01 17:55:07,526 INFO m.FilesSort [main] This is a JSON file: LOAN1X
+2023-08-01 17:55:07,527 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN1X
+2023-08-01 17:55:07,527 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,527 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN1X.json
+2023-08-01 17:55:07,534 INFO m.FilesSort [main] This is a JCL file: WFMU62OL
+2023-08-01 17:55:07,534 INFO m.FilesSort [main] This is a proc file: WFMU62OL
+2023-08-01 17:55:07,535 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMU62OL
+2023-08-01 17:55:07,535 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,535 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WFMU62OL.jcl
+2023-08-01 17:55:07,541 INFO m.FilesSort [main] This is a JCL file: WA24422P
+2023-08-01 17:55:07,541 INFO m.FilesSort [main] This is a proc file: WA24422P
+2023-08-01 17:55:07,542 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24422P
+2023-08-01 17:55:07,542 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,542 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24422P.jcl
+2023-08-01 17:55:07,543 INFO m.FilesSort [main] This is a JCL file: COPY
+2023-08-01 17:55:07,543 INFO m.FilesSort [main] This is a job file: COPY
+2023-08-01 17:55:07,543 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPY
+2023-08-01 17:55:07,543 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,543 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPY.jcl
+2023-08-01 17:55:07,545 INFO m.FilesSort [main] This is a SQL file: WA340AXC
+2023-08-01 17:55:07,545 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA340AXC
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] Directory created successfully.
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/sql/WA340AXC.sql
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] This is a JCL file: WC610A1C
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] This is a proc file: WC610A1C
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC610A1C
+2023-08-01 17:55:07,546 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,547 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC610A1C.jcl
+2023-08-01 17:55:07,547 INFO m.FilesSort [main] This is a Copy Book: WA4CFSEV
+2023-08-01 17:55:07,548 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFSEV
+2023-08-01 17:55:07,548 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,548 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFSEV.cpy
+2023-08-01 17:55:07,549 INFO m.FilesSort [main] This is a Copy Book: SVGHRT
+2023-08-01 17:55:07,549 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/SVGHRT
+2023-08-01 17:55:07,549 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,549 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/SVGHRT.cpy
+2023-08-01 17:55:07,550 INFO m.FilesSort [main] This is a Copy Book: WA4CFL13
+2023-08-01 17:55:07,550 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFL13
+2023-08-01 17:55:07,550 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,550 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFL13.cpy
+2023-08-01 17:55:07,552 INFO m.FilesSort [main] This is a Cobol file: WA18811A
+2023-08-01 17:55:07,552 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA18811A
+2023-08-01 17:55:07,552 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,552 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA18811A.cob
+2023-08-01 17:55:07,553 INFO m.FilesSort [main] This is a JSON file: LOAN72
+2023-08-01 17:55:07,554 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN72
+2023-08-01 17:55:07,554 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,554 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN72.json
+2023-08-01 17:55:07,555 INFO m.FilesSort [main] This is a Copy Book: HICAP
+2023-08-01 17:55:07,555 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/HICAP
+2023-08-01 17:55:07,555 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,555 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/HICAP.cpy
+2023-08-01 17:55:07,564 INFO m.FilesSort [main] This is a JCL file: WFMU601X
+2023-08-01 17:55:07,565 INFO m.FilesSort [main] This is a proc file: WFMU601X
+2023-08-01 17:55:07,566 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMU601X
+2023-08-01 17:55:07,566 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,566 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WFMU601X.jcl
+2023-08-01 17:55:07,566 INFO m.FilesSort [main] This is a Java file: RACF
+2023-08-01 17:55:07,567 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/RACF
+2023-08-01 17:55:07,567 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,567 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/RACF.java
+2023-08-01 17:55:07,569 INFO m.FilesSort [main] This is a JCL file: LERG13ND
+2023-08-01 17:55:07,569 INFO m.FilesSort [main] This is a job file: LERG13ND
+2023-08-01 17:55:07,569 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LERG13ND
+2023-08-01 17:55:07,569 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,569 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/LERG13ND.jcl
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] This is a JCL file: WA407A1C
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] This is a proc file: WA407A1C
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA407A1C
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA407A1C.jcl
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] This is a cards file: WA245A1C
+2023-08-01 17:55:07,570 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA245A1C
+2023-08-01 17:55:07,571 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,571 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA245A1C
+2023-08-01 17:55:07,583 INFO m.FilesSort [main] This is a JCL file: WFMU6010
+2023-08-01 17:55:07,583 INFO m.FilesSort [main] This is a proc file: WFMU6010
+2023-08-01 17:55:07,583 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMU6010
+2023-08-01 17:55:07,583 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,583 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WFMU6010.jcl
+2023-08-01 17:55:07,585 INFO m.FilesSort [main] This is a Copy Book: CLLIATR2
+2023-08-01 17:55:07,585 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLLIATR2
+2023-08-01 17:55:07,585 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,586 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/CLLIATR2.cpy
+2023-08-01 17:55:07,586 INFO m.FilesSort [main] This is a Copy Book: YHDATAT
+2023-08-01 17:55:07,586 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/YHDATAT
+2023-08-01 17:55:07,586 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,587 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/YHDATAT.cpy
+2023-08-01 17:55:07,591 INFO m.FilesSort [main] This is a JCL file: WA24432P
+2023-08-01 17:55:07,591 INFO m.FilesSort [main] This is a proc file: WA24432P
+2023-08-01 17:55:07,592 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24432P
+2023-08-01 17:55:07,592 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,592 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24432P.jcl
+2023-08-01 17:55:07,593 INFO m.FilesSort [main] This is a Copy Book: WALBLCMT
+2023-08-01 17:55:07,594 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLCMT
+2023-08-01 17:55:07,594 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,594 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLCMT.cpy
+2023-08-01 17:55:07,601 INFO m.FilesSort [main] This is a JCL file: WC242UPL
+2023-08-01 17:55:07,602 INFO m.FilesSort [main] This is a proc file: WC242UPL
+2023-08-01 17:55:07,602 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC242UPL
+2023-08-01 17:55:07,602 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,602 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC242UPL.jcl
+2023-08-01 17:55:07,606 INFO m.FilesSort [main] This is a JCL file: WA24482P
+2023-08-01 17:55:07,606 INFO m.FilesSort [main] This is a proc file: WA24482P
+2023-08-01 17:55:07,606 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24482P
+2023-08-01 17:55:07,607 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,607 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24482P.jcl
+2023-08-01 17:55:07,609 INFO m.FilesSort [main] This is a JSON file: LOAN4X
+2023-08-01 17:55:07,610 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN4X
+2023-08-01 17:55:07,610 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,610 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN4X.json
+2023-08-01 17:55:07,618 INFO m.FilesSort [main] This is a JCL file: WC561A1C
+2023-08-01 17:55:07,618 INFO m.FilesSort [main] This is a proc file: WC561A1C
+2023-08-01 17:55:07,619 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC561A1C
+2023-08-01 17:55:07,619 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,619 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC561A1C.jcl
+2023-08-01 17:55:07,620 INFO m.FilesSort [main] This is a JCL file: COPYDRMX
+2023-08-01 17:55:07,620 INFO m.FilesSort [main] This is a job file: COPYDRMX
+2023-08-01 17:55:07,620 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYDRMX
+2023-08-01 17:55:07,620 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,620 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYDRMX.jcl
+2023-08-01 17:55:07,621 INFO m.FilesSort [main] This is a JCL file: WA212A1C
+2023-08-01 17:55:07,621 INFO m.FilesSort [main] This is a proc file: WA212A1C
+2023-08-01 17:55:07,621 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA212A1C
+2023-08-01 17:55:07,621 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,621 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA212A1C.jcl
+2023-08-01 17:55:07,622 INFO m.FilesSort [main] This is a Copy Book: WA4CRSRI
+2023-08-01 17:55:07,622 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRSRI
+2023-08-01 17:55:07,622 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,622 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRSRI.cpy
+2023-08-01 17:55:07,623 INFO m.FilesSort [main] This is a JCL file: WC605A1C
+2023-08-01 17:55:07,623 INFO m.FilesSort [main] This is a proc file: WC605A1C
+2023-08-01 17:55:07,623 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC605A1C
+2023-08-01 17:55:07,623 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,623 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC605A1C.jcl
+2023-08-01 17:55:07,626 INFO m.FilesSort [main] This is a Copy Book: WA4CRCLD
+2023-08-01 17:55:07,627 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRCLD
+2023-08-01 17:55:07,627 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,627 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRCLD.cpy
+2023-08-01 17:55:07,627 INFO m.FilesSort [main] This is a JCL file: REORPVIX
+2023-08-01 17:55:07,627 INFO m.FilesSort [main] This is a job file: REORPVIX
+2023-08-01 17:55:07,628 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/REORPVIX
+2023-08-01 17:55:07,628 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,628 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/REORPVIX.jcl
+2023-08-01 17:55:07,629 INFO m.FilesSort [main] This is a Copy Book: DFGDEFT
+2023-08-01 17:55:07,629 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DFGDEFT
+2023-08-01 17:55:07,629 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,629 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/DFGDEFT.cpy
+2023-08-01 17:55:07,630 INFO m.FilesSort [main] This is a JSON file: LOAN6X
+2023-08-01 17:55:07,630 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN6X
+2023-08-01 17:55:07,630 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,630 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN6X.json
+2023-08-01 17:55:07,630 INFO m.FilesSort [main] This is a cards file: WA347A9C
+2023-08-01 17:55:07,631 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA347A9C
+2023-08-01 17:55:07,631 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,631 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA347A9C
+2023-08-01 17:55:07,632 INFO m.FilesSort [main] This is a Copy Book: WA4CRLOC
+2023-08-01 17:55:07,633 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRLOC
+2023-08-01 17:55:07,633 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,633 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRLOC.cpy
+2023-08-01 17:55:07,636 INFO m.FilesSort [main] This is a Cobol file: WA33011A
+2023-08-01 17:55:07,636 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA33011A
+2023-08-01 17:55:07,636 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,637 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA33011A.cob
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] This is a Java file: WSTIME
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WSTIME
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/WSTIME.java
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] This is a cards file: WA331A2C
+2023-08-01 17:55:07,638 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA331A2C
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA331A2C
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] This is a cards file: WA403101
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA403101
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,639 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA403101
+2023-08-01 17:55:07,640 INFO m.FilesSort [main] This is a cards file: WA244A5C
+2023-08-01 17:55:07,640 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA244A5C
+2023-08-01 17:55:07,640 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,640 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA244A5C
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] This is a JCL file: WC417A1C
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] This is a proc file: WC417A1C
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC417A1C
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC417A1C.jcl
+2023-08-01 17:55:07,641 INFO m.FilesSort [main] This is a cards file: WA346A3C
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA346A3C
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA346A3C
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] This is a cards file: WA230A3C
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA230A3C
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,642 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA230A3C
+2023-08-01 17:55:07,644 INFO m.FilesSort [main] This is a Cobol file: WA23611A
+2023-08-01 17:55:07,644 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23611A
+2023-08-01 17:55:07,644 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,644 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23611A.cob
+2023-08-01 17:55:07,645 INFO m.FilesSort [main] This is a Copy Book: HTSATRT
+2023-08-01 17:55:07,645 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/HTSATRT
+2023-08-01 17:55:07,645 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,645 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/HTSATRT.cpy
+2023-08-01 17:55:07,649 INFO m.FilesSort [main] This is a JCL file: WA24452P
+2023-08-01 17:55:07,649 INFO m.FilesSort [main] This is a proc file: WA24452P
+2023-08-01 17:55:07,649 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24452P
+2023-08-01 17:55:07,649 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,650 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24452P.jcl
+2023-08-01 17:55:07,650 INFO m.FilesSort [main] This is a cards file: WA230A6C
+2023-08-01 17:55:07,650 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA230A6C
+2023-08-01 17:55:07,650 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,652 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA230A6C
+2023-08-01 17:55:07,654 INFO m.FilesSort [main] This is a JCL file: SDCSPLIT
+2023-08-01 17:55:07,654 INFO m.FilesSort [main] This is a job file: SDCSPLIT
+2023-08-01 17:55:07,654 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/SDCSPLIT
+2023-08-01 17:55:07,654 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,654 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/SDCSPLIT.jcl
+2023-08-01 17:55:07,656 INFO m.FilesSort [main] This is a Copy Book: LOCALDRT
+2023-08-01 17:55:07,656 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOCALDRT
+2023-08-01 17:55:07,656 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,656 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/LOCALDRT.cpy
+2023-08-01 17:55:07,660 INFO m.FilesSort [main] This is a JCL file: WA24462P
+2023-08-01 17:55:07,661 INFO m.FilesSort [main] This is a proc file: WA24462P
+2023-08-01 17:55:07,661 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24462P
+2023-08-01 17:55:07,661 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,662 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24462P.jcl
+2023-08-01 17:55:07,667 INFO m.FilesSort [main] This is a Java file: DFHAID
+2023-08-01 17:55:07,668 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DFHAID
+2023-08-01 17:55:07,668 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,668 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/DFHAID.java
+2023-08-01 17:55:07,669 INFO m.FilesSort [main] This is a JCL file: WC283A1C
+2023-08-01 17:55:07,669 INFO m.FilesSort [main] This is a proc file: WC283A1C
+2023-08-01 17:55:07,670 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC283A1C
+2023-08-01 17:55:07,670 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,670 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC283A1C.jcl
+2023-08-01 17:55:07,671 INFO m.FilesSort [main] This is a Copy Book: MFDATAT
+2023-08-01 17:55:07,671 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/MFDATAT
+2023-08-01 17:55:07,671 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,671 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/MFDATAT.cpy
+2023-08-01 17:55:07,672 INFO m.FilesSort [main] This is a JCL file: DELMLOGX
+2023-08-01 17:55:07,672 INFO m.FilesSort [main] This is a job file: DELMLOGX
+2023-08-01 17:55:07,672 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DELMLOGX
+2023-08-01 17:55:07,672 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,672 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/DELMLOGX.jcl
+2023-08-01 17:55:07,673 INFO m.FilesSort [main] This is a JCL file: WC455A1C
+2023-08-01 17:55:07,673 INFO m.FilesSort [main] This is a proc file: WC455A1C
+2023-08-01 17:55:07,673 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC455A1C
+2023-08-01 17:55:07,673 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,673 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC455A1C.jcl
+2023-08-01 17:55:07,677 INFO m.FilesSort [main] This is a JCL file: WA24412P
+2023-08-01 17:55:07,677 INFO m.FilesSort [main] This is a proc file: WA24412P
+2023-08-01 17:55:07,678 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24412P
+2023-08-01 17:55:07,678 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,678 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA24412P.jcl
+2023-08-01 17:55:07,683 INFO m.FilesSort [main] This is a Cobol file: WA24111A
+2023-08-01 17:55:07,683 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24111A
+2023-08-01 17:55:07,683 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,684 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA24111A.cob
+2023-08-01 17:55:07,687 INFO m.FilesSort [main] This is a JCL file: WC275B1C
+2023-08-01 17:55:07,687 INFO m.FilesSort [main] This is a proc file: WC275B1C
+2023-08-01 17:55:07,688 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC275B1C
+2023-08-01 17:55:07,688 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,688 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC275B1C.jcl
+2023-08-01 17:55:07,688 INFO m.FilesSort [main] This is a Java file: COMMON
+2023-08-01 17:55:07,689 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COMMON
+2023-08-01 17:55:07,689 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,689 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/COMMON.java
+2023-08-01 17:55:07,690 INFO m.FilesSort [main] This is a Copy Book: WPNITMAP
+2023-08-01 17:55:07,690 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNITMAP
+2023-08-01 17:55:07,690 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,690 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNITMAP.cpy
+2023-08-01 17:55:07,690 INFO m.FilesSort [main] This is a Copy Book: SVGIDT
+2023-08-01 17:55:07,691 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/SVGIDT
+2023-08-01 17:55:07,691 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,691 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/SVGIDT.cpy
+2023-08-01 17:55:07,695 INFO m.FilesSort [main] This is a JCL file: WC472A1C
+2023-08-01 17:55:07,695 INFO m.FilesSort [main] This is a proc file: WC472A1C
+2023-08-01 17:55:07,695 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC472A1C
+2023-08-01 17:55:07,695 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,695 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC472A1C.jcl
+2023-08-01 17:55:07,697 INFO m.FilesSort [main] This is a JCL file: WA219A1C
+2023-08-01 17:55:07,697 INFO m.FilesSort [main] This is a proc file: WA219A1C
+2023-08-01 17:55:07,697 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA219A1C
+2023-08-01 17:55:07,697 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,697 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA219A1C.jcl
+2023-08-01 17:55:07,699 INFO m.FilesSort [main] This is a Cobol file: WA24011A
+2023-08-01 17:55:07,699 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24011A
+2023-08-01 17:55:07,700 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,700 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA24011A.cob
+2023-08-01 17:55:07,701 INFO m.FilesSort [main] This is a Copy Book: WALBLLWT
+2023-08-01 17:55:07,702 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLLWT
+2023-08-01 17:55:07,702 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,702 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLLWT.cpy
+2023-08-01 17:55:07,703 INFO m.FilesSort [main] This is a Copy Book: WPNTTGRP
+2023-08-01 17:55:07,703 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNTTGRP
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNTTGRP.cpy
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] This is a Java file: DEBTOR
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/DEBTOR
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,704 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/DEBTOR.java
+2023-08-01 17:55:07,705 INFO m.FilesSort [main] This is a Copy Book: WA4CFPVI
+2023-08-01 17:55:07,705 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFPVI
+2023-08-01 17:55:07,705 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,706 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFPVI.cpy
+2023-08-01 17:55:07,706 INFO m.FilesSort [main] This is a cards file: WA332A2C
+2023-08-01 17:55:07,706 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA332A2C
+2023-08-01 17:55:07,706 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,706 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA332A2C
+2023-08-01 17:55:07,707 INFO m.FilesSort [main] This is a Copy Book: WALBLPAT
+2023-08-01 17:55:07,707 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLPAT
+2023-08-01 17:55:07,707 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,707 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLPAT.cpy
+2023-08-01 17:55:07,708 INFO m.FilesSort [main] This is a Copy Book: WA4CFNPA
+2023-08-01 17:55:07,708 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFNPA
+2023-08-01 17:55:07,708 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,708 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFNPA.cpy
+2023-08-01 17:55:07,709 INFO m.FilesSort [main] This is a JCL file: WC411A1C
+2023-08-01 17:55:07,709 INFO m.FilesSort [main] This is a proc file: WC411A1C
+2023-08-01 17:55:07,710 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC411A1C
+2023-08-01 17:55:07,710 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,710 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC411A1C.jcl
+2023-08-01 17:55:07,711 INFO m.FilesSort [main] This is a Copy Book: WALBLSIT
+2023-08-01 17:55:07,711 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLSIT
+2023-08-01 17:55:07,711 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,711 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLSIT.cpy
+2023-08-01 17:55:07,714 INFO m.FilesSort [main] This is a JCL file: WA340A1C
+2023-08-01 17:55:07,715 INFO m.FilesSort [main] This is a proc file: WA340A1C
+2023-08-01 17:55:07,715 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA340A1C
+2023-08-01 17:55:07,715 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,715 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA340A1C.jcl
+2023-08-01 17:55:07,719 INFO m.FilesSort [main] This is a Cobol file: WA21411A
+2023-08-01 17:55:07,720 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21411A
+2023-08-01 17:55:07,720 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,720 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21411A.cob
+2023-08-01 17:55:07,720 INFO m.FilesSort [main] Garbage file: CONFIG
+2023-08-01 17:55:07,721 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CONFIG
+2023-08-01 17:55:07,721 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,721 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/CONFIG
+2023-08-01 17:55:07,723 INFO m.FilesSort [main] This is a JCL file: WA216A1C
+2023-08-01 17:55:07,723 INFO m.FilesSort [main] This is a proc file: WA216A1C
+2023-08-01 17:55:07,723 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA216A1C
+2023-08-01 17:55:07,723 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,723 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA216A1C.jcl
+2023-08-01 17:55:07,724 INFO m.FilesSort [main] This is a JCL file: BINDDRMX
+2023-08-01 17:55:07,724 INFO m.FilesSort [main] This is a job file: BINDDRMX
+2023-08-01 17:55:07,724 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/BINDDRMX
+2023-08-01 17:55:07,724 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,724 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/BINDDRMX.jcl
+2023-08-01 17:55:07,725 INFO m.FilesSort [main] This is a JCL file: COPYWAD3
+2023-08-01 17:55:07,725 INFO m.FilesSort [main] This is a job file: COPYWAD3
+2023-08-01 17:55:07,725 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYWAD3
+2023-08-01 17:55:07,725 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,725 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYWAD3.jcl
+2023-08-01 17:55:07,726 INFO m.FilesSort [main] This is a JCL file: WC601A1C
+2023-08-01 17:55:07,726 INFO m.FilesSort [main] This is a proc file: WC601A1C
+2023-08-01 17:55:07,726 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC601A1C
+2023-08-01 17:55:07,726 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,727 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC601A1C.jcl
+2023-08-01 17:55:07,731 INFO m.FilesSort [main] This is a Cobol file: WA21911A
+2023-08-01 17:55:07,731 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21911A
+2023-08-01 17:55:07,731 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,731 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21911A.cob
+2023-08-01 17:55:07,733 INFO m.FilesSort [main] This is a Java file: WSMTH
+2023-08-01 17:55:07,733 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WSMTH
+2023-08-01 17:55:07,733 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,733 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/WSMTH.java
+2023-08-01 17:55:07,734 INFO m.FilesSort [main] This is a cards file: WA24411C
+2023-08-01 17:55:07,734 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA24411C
+2023-08-01 17:55:07,734 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,736 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cards/WA24411C
+2023-08-01 17:55:07,747 INFO m.FilesSort [main] This is a JCL file: WC332A1C
+2023-08-01 17:55:07,748 INFO m.FilesSort [main] This is a proc file: WC332A1C
+2023-08-01 17:55:07,748 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC332A1C
+2023-08-01 17:55:07,748 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,749 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC332A1C.jcl
+2023-08-01 17:55:07,749 INFO m.FilesSort [main] This is a Cobol file: WA21211A
+2023-08-01 17:55:07,750 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21211A
+2023-08-01 17:55:07,750 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,750 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21211A.cob
+2023-08-01 17:55:07,751 INFO m.FilesSort [main] This is a Java file: ATTRIB
+2023-08-01 17:55:07,751 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/ATTRIB
+2023-08-01 17:55:07,751 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,751 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/ATTRIB.java
+2023-08-01 17:55:07,752 INFO m.FilesSort [main] This is a Copy Book: CLLIATR3
+2023-08-01 17:55:07,753 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLLIATR3
+2023-08-01 17:55:07,753 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,753 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/CLLIATR3.cpy
+2023-08-01 17:55:07,754 INFO m.FilesSort [main] This is a Cobol file: WA23211A
+2023-08-01 17:55:07,754 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23211A
+2023-08-01 17:55:07,754 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,754 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23211A.cob
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] This is a Copy Book: WA4CFCOW
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFCOW
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFCOW.cpy
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] This is a JCL file: WA613A1C
+2023-08-01 17:55:07,755 INFO m.FilesSort [main] This is a proc file: WA613A1C
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA613A1C
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA613A1C.jcl
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] This is a SQL file: WA346A4C
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA346A4C
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,756 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/sql/WA346A4C.sql
+2023-08-01 17:55:07,758 INFO m.FilesSort [main] This is a Copy Book: WA4CCPDT
+2023-08-01 17:55:07,758 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CCPDT
+2023-08-01 17:55:07,758 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,758 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CCPDT.cpy
+2023-08-01 17:55:07,762 INFO m.FilesSort [main] This is a JCL file: WC608A1C
+2023-08-01 17:55:07,762 INFO m.FilesSort [main] This is a proc file: WC608A1C
+2023-08-01 17:55:07,762 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC608A1C
+2023-08-01 17:55:07,762 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,763 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC608A1C.jcl
+2023-08-01 17:55:07,764 INFO m.FilesSort [main] This is a Copy Book: LOCALLVT
+2023-08-01 17:55:07,764 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOCALLVT
+2023-08-01 17:55:07,764 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,764 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/LOCALLVT.cpy
+2023-08-01 17:55:07,767 INFO m.FilesSort [main] This is a JCL file: COPYBAEX
+2023-08-01 17:55:07,768 INFO m.FilesSort [main] This is a job file: COPYBAEX
+2023-08-01 17:55:07,768 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYBAEX
+2023-08-01 17:55:07,768 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,768 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYBAEX.jcl
+2023-08-01 17:55:07,770 INFO m.FilesSort [main] This is a Copy Book: WA4CRSEV
+2023-08-01 17:55:07,771 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRSEV
+2023-08-01 17:55:07,771 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,771 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRSEV.cpy
+2023-08-01 17:55:07,771 INFO m.FilesSort [main] This is a Cobol file: WA23411A
+2023-08-01 17:55:07,772 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23411A
+2023-08-01 17:55:07,772 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,772 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23411A.cob
+2023-08-01 17:55:07,773 INFO m.FilesSort [main] This is a Copy Book: WALBLLTT
+2023-08-01 17:55:07,773 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLLTT
+2023-08-01 17:55:07,773 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,773 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLLTT.cpy
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] This is a Copy Book: RTSINFOT
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/RTSINFOT
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/RTSINFOT.cpy
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] This is a JCL file: COPYDFGX
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] This is a job file: COPYDFGX
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYDFGX
+2023-08-01 17:55:07,774 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYDFGX.jcl
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] This is a JCL file: COPYPVIX
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] This is a job file: COPYPVIX
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYPVIX
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,775 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYPVIX.jcl
+2023-08-01 17:55:07,776 INFO m.FilesSort [main] This is a Copy Book: WALBLWCT
+2023-08-01 17:55:07,776 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLWCT
+2023-08-01 17:55:07,776 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,776 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLWCT.cpy
+2023-08-01 17:55:07,778 INFO m.FilesSort [main] This is a JCL file: WA230A1C
+2023-08-01 17:55:07,778 INFO m.FilesSort [main] This is a proc file: WA230A1C
+2023-08-01 17:55:07,780 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA230A1C
+2023-08-01 17:55:07,780 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,780 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA230A1C.jcl
+2023-08-01 17:55:07,781 INFO m.FilesSort [main] This is a JCL file: WA439A1C
+2023-08-01 17:55:07,781 INFO m.FilesSort [main] This is a proc file: WA439A1C
+2023-08-01 17:55:07,782 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA439A1C
+2023-08-01 17:55:07,782 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,782 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA439A1C.jcl
+2023-08-01 17:55:07,783 INFO m.FilesSort [main] This is a Copy Book: WPNSWTCH
+2023-08-01 17:55:07,783 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNSWTCH
+2023-08-01 17:55:07,783 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,783 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNSWTCH.cpy
+2023-08-01 17:55:07,784 INFO m.FilesSort [main] This is a JCL file: REORDRMX
+2023-08-01 17:55:07,784 INFO m.FilesSort [main] This is a job file: REORDRMX
+2023-08-01 17:55:07,784 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/REORDRMX
+2023-08-01 17:55:07,784 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,784 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/REORDRMX.jcl
+2023-08-01 17:55:07,793 INFO m.FilesSort [main] Garbage file: NATIVE
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/NATIVE
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/NATIVE
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] This is a Java file: ACCONT
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/ACCONT
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,794 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/ACCONT.java
+2023-08-01 17:55:07,795 INFO m.FilesSort [main] This is a JCL file: WA553A1C
+2023-08-01 17:55:07,795 INFO m.FilesSort [main] This is a proc file: WA553A1C
+2023-08-01 17:55:07,796 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA553A1C
+2023-08-01 17:55:07,796 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,796 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA553A1C.jcl
+2023-08-01 17:55:07,796 INFO m.FilesSort [main] This is a Copy Book: WALBLSAT
+2023-08-01 17:55:07,797 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLSAT
+2023-08-01 17:55:07,797 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,797 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLSAT.cpy
+2023-08-01 17:55:07,798 INFO m.FilesSort [main] This is a Copy Book: CLLIATTR
+2023-08-01 17:55:07,798 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLLIATTR
+2023-08-01 17:55:07,798 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,798 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/CLLIATTR.cpy
+2023-08-01 17:55:07,799 INFO m.FilesSort [main] This is a Copy Book: FTSATRT
+2023-08-01 17:55:07,799 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/FTSATRT
+2023-08-01 17:55:07,799 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,800 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/FTSATRT.cpy
+2023-08-01 17:55:07,801 INFO m.FilesSort [main] This is a JCL file: WA347A2C
+2023-08-01 17:55:07,801 INFO m.FilesSort [main] This is a proc file: WA347A2C
+2023-08-01 17:55:07,801 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA347A2C
+2023-08-01 17:55:07,801 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,802 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA347A2C.jcl
+2023-08-01 17:55:07,807 INFO m.FilesSort [main] This is a JCL file: PVISTATX
+2023-08-01 17:55:07,808 INFO m.FilesSort [main] This is a job file: PVISTATX
+2023-08-01 17:55:07,808 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/PVISTATX
+2023-08-01 17:55:07,808 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,808 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/PVISTATX.jcl
+2023-08-01 17:55:07,809 INFO m.FilesSort [main] This is a JSON file: LOAN7X
+2023-08-01 17:55:07,809 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN7X
+2023-08-01 17:55:07,809 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,809 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN7X.json
+2023-08-01 17:55:07,810 INFO m.FilesSort [main] This is a Copy Book: WA4CFLOC
+2023-08-01 17:55:07,810 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFLOC
+2023-08-01 17:55:07,810 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,810 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFLOC.cpy
+2023-08-01 17:55:07,811 INFO m.FilesSort [main] This is a JCL file: WC403A1C
+2023-08-01 17:55:07,811 INFO m.FilesSort [main] This is a proc file: WC403A1C
+2023-08-01 17:55:07,811 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC403A1C
+2023-08-01 17:55:07,811 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,811 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC403A1C.jcl
+2023-08-01 17:55:07,814 INFO m.FilesSort [main] This is a Copy Book: WA4CRSW
+2023-08-01 17:55:07,814 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRSW
+2023-08-01 17:55:07,814 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,814 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRSW.cpy
+2023-08-01 17:55:07,816 INFO m.FilesSort [main] This is a Copy Book: WA4CRCOM
+2023-08-01 17:55:07,816 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CRCOM
+2023-08-01 17:55:07,816 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,816 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CRCOM.cpy
+2023-08-01 17:55:07,817 INFO m.FilesSort [main] This is a JCL file: REORCLDS
+2023-08-01 17:55:07,817 INFO m.FilesSort [main] This is a job file: REORCLDS
+2023-08-01 17:55:07,817 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/REORCLDS
+2023-08-01 17:55:07,817 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,817 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/REORCLDS.jcl
+2023-08-01 17:55:07,818 INFO m.FilesSort [main] This is a JCL file: WC618A1C
+2023-08-01 17:55:07,818 INFO m.FilesSort [main] This is a proc file: WC618A1C
+2023-08-01 17:55:07,818 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC618A1C
+2023-08-01 17:55:07,819 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,819 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC618A1C.jcl
+2023-08-01 17:55:07,821 INFO m.FilesSort [main] This is a Cobol file: WA23311A
+2023-08-01 17:55:07,821 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA23311A
+2023-08-01 17:55:07,821 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,822 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA23311A.cob
+2023-08-01 17:55:07,822 INFO m.FilesSort [main] This is a Copy Book: WPNUDEF
+2023-08-01 17:55:07,822 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNUDEF
+2023-08-01 17:55:07,822 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WPNUDEF.cpy
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] This is a JCL file: LERC8NDM
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] This is a job file: LERC8NDM
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LERC8NDM
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,823 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/LERC8NDM.jcl
+2023-08-01 17:55:07,824 INFO m.FilesSort [main] This is a Copy Book: WA4CFSRI
+2023-08-01 17:55:07,824 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA4CFSRI
+2023-08-01 17:55:07,824 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,824 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WA4CFSRI.cpy
+2023-08-01 17:55:07,825 INFO m.FilesSort [main] This is a Copy Book: WFMPARMT
+2023-08-01 17:55:07,825 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WFMPARMT
+2023-08-01 17:55:07,825 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,825 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WFMPARMT.cpy
+2023-08-01 17:55:07,826 INFO m.FilesSort [main] This is a Copy Book: WALBLPLT
+2023-08-01 17:55:07,826 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WALBLPLT
+2023-08-01 17:55:07,826 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,826 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/lib/WALBLPLT.cpy
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] This is a JCL file: WA241A1C
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] This is a proc file: WA241A1C
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA241A1C
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA241A1C.jcl
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] This is a JCL file: WC466A1C
+2023-08-01 17:55:07,827 INFO m.FilesSort [main] This is a proc file: WC466A1C
+2023-08-01 17:55:07,828 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC466A1C
+2023-08-01 17:55:07,828 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,828 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC466A1C.jcl
+2023-08-01 17:55:07,829 INFO m.FilesSort [main] This is a SQL file: WA332AGC
+2023-08-01 17:55:07,829 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA332AGC
+2023-08-01 17:55:07,829 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,829 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/sql/WA332AGC.sql
+2023-08-01 17:55:07,830 INFO m.FilesSort [main] This is a JCL file: TIRKS3GX
+2023-08-01 17:55:07,830 INFO m.FilesSort [main] This is a job file: TIRKS3GX
+2023-08-01 17:55:07,830 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/TIRKS3GX
+2023-08-01 17:55:07,830 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,830 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/TIRKS3GX.jcl
+2023-08-01 17:55:07,832 INFO m.FilesSort [main] This is a JCL file: WPNU632T
+2023-08-01 17:55:07,832 INFO m.FilesSort [main] This is a proc file: WPNU632T
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WPNU632T
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WPNU632T.jcl
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] This is a Java file: FILLER
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/FILLER
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,838 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/FILLER.java
+2023-08-01 17:55:07,839 INFO m.FilesSort [main] This is a JCL file: COPYCLDS
+2023-08-01 17:55:07,839 INFO m.FilesSort [main] This is a job file: COPYCLDS
+2023-08-01 17:55:07,839 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/COPYCLDS
+2023-08-01 17:55:07,839 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,839 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/COPYCLDS.jcl
+2023-08-01 17:55:07,840 INFO m.FilesSort [main] This is a JCL file: CLDSNDM1
+2023-08-01 17:55:07,840 INFO m.FilesSort [main] This is a job file: CLDSNDM1
+2023-08-01 17:55:07,840 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLDSNDM1
+2023-08-01 17:55:07,840 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/CLDSNDM1.jcl
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] This is a JCL file: WC409A1C
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] This is a proc file: WC409A1C
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC409A1C
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,841 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC409A1C.jcl
+2023-08-01 17:55:07,842 INFO m.FilesSort [main] This is a JSON file: LOAN15X
+2023-08-01 17:55:07,842 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LOAN15X
+2023-08-01 17:55:07,843 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,843 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/json/LOAN15X.json
+2023-08-01 17:55:07,844 INFO m.FilesSort [main] This is a JCL file: BINDPVIX
+2023-08-01 17:55:07,844 INFO m.FilesSort [main] This is a job file: BINDPVIX
+2023-08-01 17:55:07,844 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/BINDPVIX
+2023-08-01 17:55:07,844 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,844 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/BINDPVIX.jcl
+2023-08-01 17:55:07,853 INFO m.FilesSort [main] This is a JCL file: CLDSSPLT
+2023-08-01 17:55:07,853 INFO m.FilesSort [main] This is a job file: CLDSSPLT
+2023-08-01 17:55:07,854 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/CLDSSPLT
+2023-08-01 17:55:07,854 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,854 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/CLDSSPLT.jcl
+2023-08-01 17:55:07,854 INFO m.FilesSort [main] This is a JCL file: LERG7NDM
+2023-08-01 17:55:07,855 INFO m.FilesSort [main] This is a job file: LERG7NDM
+2023-08-01 17:55:07,855 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/LERG7NDM
+2023-08-01 17:55:07,855 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,856 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/job/LERG7NDM.jcl
+2023-08-01 17:55:07,858 INFO m.FilesSort [main] This is a Java file: REC
+2023-08-01 17:55:07,858 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/REC
+2023-08-01 17:55:07,858 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/java/REC.java
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] This is a JCL file: WC410A1C
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] This is a proc file: WC410A1C
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WC410A1C
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,859 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WC410A1C.jcl
+2023-08-01 17:55:07,860 INFO m.FilesSort [main] Garbage file: PROGRAM
+2023-08-01 17:55:07,860 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/PROGRAM
+2023-08-01 17:55:07,860 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,860 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/garbage/PROGRAM
+2023-08-01 17:55:07,861 INFO m.FilesSort [main] This is a JCL file: WA406A1C
+2023-08-01 17:55:07,861 INFO m.FilesSort [main] This is a proc file: WA406A1C
+2023-08-01 17:55:07,861 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA406A1C
+2023-08-01 17:55:07,861 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,861 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/jcl/proc/WA406A1C.jcl
+2023-08-01 17:55:07,863 INFO m.FilesSort [main] This is a Cobol file: WA21611A
+2023-08-01 17:55:07,863 INFO m.FilesSort [main] File copied to /home/laxmip/Documents/c2j/group1/sorted/WA21611A
+2023-08-01 17:55:07,863 INFO m.FilesSort [main] Directory already exists and file pushed into the directory
+2023-08-01 17:55:07,863 INFO m.FilesSort [main] File moved to /home/laxmip/Documents/c2j/group1/sorted/cob/WA21611A.cob
+2023-08-01 17:55:07,863 INFO m.FilesSort [main] -----------------------------------------------------------------------------------
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files before sorting: 252
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number Directories created: 8
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in cob: 25
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in java: 11
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in bms: 0
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in json: 9
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in jcl: 102
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in lib: 71
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in cards: 23
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in sql: 3
+2023-08-01 17:55:07,864 INFO m.FilesSort [main] Number of files in garbage: 8
